@@ -32,3 +32,4 @@ while True:
         
     except:
         (palavra_secreta)
+vai estudar
