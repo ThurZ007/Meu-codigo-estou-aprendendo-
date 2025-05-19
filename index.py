@@ -27,4 +27,3 @@ while True:
 
 lista_de_compras_enumerada = enumerate(lista_de_compras)
 print("Finalizando lista")
-print(lista_de_compras_enumerada)
